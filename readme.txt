@@ -6,3 +6,6 @@ Git tracks changes.
 
 What is the difference between git fetch and git pull?
 Now we begin the study.
+
+
+Now we study the `git stash`.
