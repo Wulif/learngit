@@ -8,7 +8,10 @@ What is the difference between git fetch and git pull?
 Now we begin the study.
 I will be a the conflicting parties
 
+=====================
 
 Now we study the `git stash`.
 I will be a the second conflicting parties.Now i will use stage
 We study the `git stash` again.
+
+git stash again.
