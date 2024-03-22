@@ -11,3 +11,4 @@ I will be a the conflicting parties
 
 Now we study the `git stash`.
 I will be a the second conflicting parties.Now i will use stage
+We study the `git stash` again.
